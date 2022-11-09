@@ -20,6 +20,7 @@ function HomePage() {
             <CSSReset />
             <div style={estiloDaHomePage}>
                 <Menu></Menu>
+                <Banner />
                 <Header></Header>
                 <Timeline playlists={config.playlists} />
                 <Favorite favorites={config.favorites} />
@@ -29,6 +30,26 @@ function HomePage() {
 }
 
 export default HomePage
+
+const StyledBanner = styled.div`
+  width: 100%;
+  margin: 0 auto;
+  img {
+    margin-top: 50px;
+    min-width: 100%;
+    height: 300px;
+    object-fit: cover;
+    object-position: 0px -210px;
+  }
+`;
+
+function Banner() {
+    return (
+        <StyledBanner>
+            <img src={`${config.banner}`} />
+        </StyledBanner>
+    )
+}
 
 const StyleHeader = styled.div`
     img {
@@ -42,7 +63,7 @@ const StyleHeader = styled.div`
         width: 100%;
         padding: 16px 32px;
         gap: 16px;
-        margin-top: 50px;
+        margin-top: 20px;
     }
 `;
 
@@ -92,7 +113,7 @@ function Timeline(props) {
 function Favorite(props) {
     const favorites = Object.keys(props.favorites);
 
-    return   (
+    return (
         <StyledFavorite>
             {favorites.map((favorite) => {
                 const accounts = props.favorites[favorite];
