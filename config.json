@@ -5,142 +5,140 @@
   "favorites": {
     "AluraTube Favorites": [
       {
-        "name": "@omariosouto",
-        "url": "https://github.com/omariosouto",
-        "avatar": "https://github.com/omariosouto.png"
+        "name": "@canalgnt",
+        "url": "https://www.youtube.com/c/canalgnt",
+        "avatar": "https://yt3.ggpht.com/r9NN5kfbZf27VVdSKdefxJfBCpVvuTJcvgj16mezT51DcXOC70zAFjT1mE_9ORascBfJEJEIBA=s176-c-k-c0x00ffffff-no-rj"
       },
       {
-        "name": "@peas",
-        "url": "https://github.com/peas",
-        "avatar": "https://github.com/peas.png"
+        "name": "@listentosilva",
+        "url": "https://www.youtube.com/user/listentosilva",
+        "avatar": "//yt3.ggpht.com/NRGrbdTqx0VaseuX8WrV5xdRaYRsX39ECjqsQZMj0WwZynCkh-HXxzH-lDR3IGa4S1O4-Jr0UUg=s176-c-k-c0x00ffffff-no-rj-mo"
+      },
+      {
+        "name": "@Carioca NoMundo",
+        "url": "https://www.youtube.com/c/CariocaNomundo",
+        "avatar": "https://yt3.ggpht.com/nooDwgjwzAjFFJgw5T3h1FRJ9sifgKerX3NYzyXsB__C4ACljtOI1luT_lqo-adi9x6E2l1YYw=s176-c-k-c0x00ffffff-no-rj"
+      },
+      {
+        "name": "@GROUPLOVE",
+        "url": "https://www.youtube.com/channel/UCRaoFQgm9afWeKAfQ2xocSA",
+        "avatar": "https://yt3.ggpht.com/ytc/AMLnZu-cgmAll6t0tnw75eqi6ElLGNNixHcAOzmMQf8xMQ=s176-c-k-c0x00ffffff-no-rj"
+      },
+      {
+        "name": "@Cortes do Casimito [OFICIAL]",
+        "url": "https://www.youtube.com/c/CortesdoCasimitoOFICIAL",
+        "avatar": "https://yt3.ggpht.com/ytc/AMLnZu-bu8UoUTz6sCJgx86VKU1HI1PheMS-2KjnkEZ0=s176-c-k-c0x00ffffff-no-rj"
+      },
+      {
+        "name": "@The Strokes",
+        "url": "https://www.youtube.com/channel/UC28OQSWdiW7jkadedZRRyZA",
+        "avatar": "https://yt3.ggpht.com/ytc/AMLnZu-7TCobGe4eclGD84BKDdcDcjWuN0KhIOYlmSWy=s176-c-k-c0x00ffffff-no-rj"
+      },
+      {
+        "name": "@LÉON",
+        "url": "https://www.youtube.com/channel/UC8hod44yQ-t8eQuXxeK5-Yw",
+        "avatar": "https://yt3.ggpht.com/s5vAYFXyro1mwsBpNHY5rWxgNHfh2JOBr9YodSGGDsHBVMJmMJYtA9Zwwm43rcd8Z6UW3DYZ=s176-c-k-c0x00ffffff-no-rj"
+      },
+      {
+        "name": "@Lady Gaga",
+        "url": "https://www.youtube.com/channel/UCNL1ZadSjHpjm4q9j2sVtOA",
+        "avatar": "https://yt3.ggpht.com/xjPU38S6xxxP8MOA9NcDE4e1zarMDCjwuMDo_4erL383bY5rk9VcyTmCcBntAIlPRNZ7JerJQQ=s176-c-k-c0x00ffffff-no-rj"
+      },
+      {
+        "name": "@SeafretOfficial",
+        "url": "https://www.youtube.com/channel/SeafretOfficial",
+        "avatar": "https://yt3.ggpht.com/Rk-ApD_ydpk55iYycIvcCzZoajoUVM7-bMxUwsDmotVyQ24xaf_SJf5_AAHTO-13pMSc5MJR=s176-c-k-c0x00ffffff-no-rj-mo"
       }
     ]
   },
   "playlists": {
-    "jogos": [
+    "músicas": [
       {
-        "title": "Frostpunk - Neve e Steak tartare",
-        "url": "https://www.youtube.com/watch?v=QsqatJxAUtk",
-        "thumb": "https://img.youtube.com/vi/QsqatJxAUtk/hqdefault.jpg"
+        "title": "The Strokes - At The Door (Official Video)",
+        "url": "https://youtu.be/9CAz_vvsK9M",
+        "thumb": "https://i.ytimg.com/vi/9CAz_vvsK9M/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD4pCVBl_BG7P_uKpjcSKh7Evm3Bg"
       },
       {
-        "title": "Frostpunk - Neve e Steak tartare",
-        "url": "https://www.youtube.com/watch?v=O8jtAyPuhNg",
-        "thumb": "https://img.youtube.com/vi/O8jtAyPuhNg/hqdefault.jpg"
+        "title": "The Strokes - Ode To The Mets (Official Video)",
+        "url": "https://www.youtube.com/watch?v=BjC0KUxiMhc",
+        "thumb": "https://i.ytimg.com/vi/BjC0KUxiMhc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA9tZ_uac28JYOFVFhf3_UZoots7A"
       },
       {
-        "title": "Gas Station Simulator - 8 dias sem dormir!",
-        "url": "https://www.youtube.com/watch?v=R1d0DyRDG_Q",
-        "thumb": "https://img.youtube.com/vi/R1d0DyRDG_Q/hqdefault.jpg"
+        "title": "Silva e Ivete Sangalo - Pra Vida Inteira (Clipe Oficial)",
+        "url": "https://www.youtube.com/watch?v=klZsTeCqZxo",
+        "thumb": "https://i.ytimg.com/vi/klZsTeCqZxo/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBpqCk2DYIyI_sADCs0ERx4sCwmRw"
       },
       {
-        "title": "Gartic Phone - Não assista a esse NerdPlayer!",
-        "url": "https://www.youtube.com/watch?v=0oJQUs5oRiM",
-        "thumb": "https://img.youtube.com/vi/0oJQUs5oRiM/hqdefault.jpg"
-      },
-      {
-        "title": "Netdecking Estraga o Magic?",
-        "url": "https://www.youtube.com/watch?v=dXihyhYEsEc",
-        "thumb": "https://img.youtube.com/vi/dXihyhYEsEc/hqdefault.jpg"
-      },
-      {
-        "title": "Cities: Skylines - EPCOTAB, o futuro de Saint Laurrent",
-        "url": "https://www.youtube.com/watch?v=zybKHMgLCWU",
-        "thumb": "https://img.youtube.com/vi/zybKHMgLCWU/hqdefault.jpg"
-      },
-      {
-        "title": "We Were Here Together - Os Enigmas deste Mundo",
-        "url": "https://www.youtube.com/watch?v=UKgQsrHUG40",
-        "thumb": "https://img.youtube.com/vi/UKgQsrHUG40/hqdefault.jpg"
-      },
-      {
-        "title": "Microsoft Flight Simulator - Top Gun: Oceania - Missão RJ!",
-        "url": "https://www.youtube.com/watch?v=n3TneUb5c-w",
-        "thumb": "https://img.youtube.com/vi/n3TneUb5c-w/hqdefault.jpg"
+        "title": "Silva - Duas da Tarde (Clipe Oficial)",
+        "url": "https://www.youtube.com/watch?v=RCQCsoNNZQM",
+        "thumb": "https://i.ytimg.com/vi/RCQCsoNNZQM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCEBW6I8r0aaKVvOGqpjiASycBBQQ"
+      }, {
+        "title": "Tom Odell - Another Love (Official Video)",
+        "url": "https://www.youtube.com/watch?v=MwpMEbgC7DA",
+        "thumb": "https://i.ytimg.com/vi/MwpMEbgC7DA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAhA23UBvjZtSsxRW01Rq5VdVX-OA"
+      }, {
+        "title": "George Ezra - Budapest (Official Video)",
+        "url": "https://www.youtube.com/watch?v=VHrLPs3_1Fs",
+        "thumb": "https://i.ytimg.com/vi/VHrLPs3_1Fs/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDPwAdeV_z3v2Cp0lErteyxeG436g"
+      }, {
+        "title": "George Ezra - Listen to the Man",
+        "url": "https://www.youtube.com/watch?v=ZS0WvzRVByg",
+        "thumb": "https://i.ytimg.com/vi/ZS0WvzRVByg/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBP7O68owM6DOua7wy4h2LQGvMKAw"
+      }, {
+        "title": "George Ezra - Dance All Over Me (Official Video)",
+        "url": "https://www.youtube.com/watch?v=eFQV0XtLjBU",
+        "thumb": "https://i.ytimg.com/vi/eFQV0XtLjBU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAXYckyAurrG-k05PAdVqFwl2UEMQ"
+      }, {
+        "title": "Vance Joy - Missing Piece [Official Video]",
+        "url": "https://www.youtube.com/watch?v=atka_0TUTLM",
+        "thumb": "https://i.ytimg.com/vi/atka_0TUTLM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC9It-FuOgFzo_ZuNBWzF8ndCukog"
       }
     ],
-    "front-end": [
+    "viagens": [
       {
-        "title": "Jogo com JavaScript #01: Criando um Flappy Bird do ZERO!!!",
-        "url": "https://youtube.com/watch?v=jOAU81jdi-c",
-        "thumb": "https://img.youtube.com/vi/jOAU81jdi-c/hqdefault.jpg"
+        "title": "EMBARQUE VIP NO AEROPORTO DE MUNIQUE -- E UMA SURPRESA NO FINAL!",
+        "url": "https://www.youtube.com/watch?v=uRzZviLfC7c",
+        "thumb": "https://i.ytimg.com/vi/uRzZviLfC7c/hqdefault.jpg"
       },
       {
-        "title": "Jogo com JavaScript #01: Criando um Flappy Bird do ZERO!!!",
-        "url": "https://www.youtube.com/watch?v=llF6vD-RljE",
-        "thumb": "https://img.youtube.com/vi/llF6vD-RljE/hqdefault.jpg"
+        "title": "O TERMINAL VIP DO AEROPORTO DE MUNIQUE E A BUSINESS CLASS DO A350 DA LUFTHANSA - Por Carioca NoMundo",
+        "url": "https://www.youtube.com/watch?v=Cd_SIu89Vsk",
+        "thumb": "https://i.ytimg.com/vi/Cd_SIu89Vsk/hqdefault.jpg"
       },
       {
-        "title": "A Primeira Aula de Flutter Que Todo Mundo Deveria Ter",
-        "url": "https://www.youtube.com/watch?v=J4BVaXkwmM8",
-        "thumb": "https://img.youtube.com/vi/J4BVaXkwmM8/hqdefault.jpg"
+        "title": "O HOTEL KEMPINSKI BERCHTESGADEN E A PAISAGEM FANTÁSTICA DOS ALPES DA BAVIERA, NA ALEMANHA",
+        "url": "https://www.youtube.com/watch?v=-C3X-62B1Qc",
+        "thumb": "https://i.ytimg.com/vi/-C3X-62B1Qc/hqdefault.jpg"
       },
       {
-        "title": "O QUE SÃO FRAMEWORKS E BIBLIOTECAS? QUAIS AS DIFERENÇAS?",
-        "url": "https://www.youtube.com/watch?v=dp0zB4n3MUs",
-        "thumb": "https://img.youtube.com/vi/dp0zB4n3MUs/hqdefault.jpg"
+        "title": "A MAGIA DE SALZBURGO, NA ÁUSTRIA: DE MOZART À NOVIÇA REBELDE, COM A GUIA MAIS FOFA DO MUNDO",
+        "url": "https://www.youtube.com/watch?v=r7Om8zFbKHs",
+        "thumb": "https://i.ytimg.com/vi/r7Om8zFbKHs/hqdefault.jpg"
       },
       {
-        "title": "Angular (O Vídeo que Você Precisava para Começar no Framework) // Dicionário do Programador",
-        "url": "https://www.youtube.com/watch?v=Yf0rC7dERjg",
-        "thumb": "https://img.youtube.com/vi/Yf0rC7dERjg/hqdefault.jpg"
+        "title": "O SCHLOSS ELMAU, NA ALEMANHA, UM DOS HOTÉIS MAIS IMPRESSIONANTES QUE EU JÁ VI - Por Carioca NoMundo",
+        "url": "https://www.youtube.com/watch?v=ADkP5IbI2Z4",
+        "thumb": "https://i.ytimg.com/vi/ADkP5IbI2Z4/hqdefault.jpg"
       },
       {
-        "title": "Como Foi Programado um App Que Faz Mágica",
-        "url": "https://www.youtube.com/watch?v=I36seuWUe5s",
-        "thumb": "https://img.youtube.com/vi/I36seuWUe5s/hqdefault.jpg"
+        "title": "CERVEJA, FUTEBOL E HISTÓRIA: UM DIA PERFEITO EM MUNIQUE, NA ALEMANHA - Por Carioca NoMundo",
+        "url": "https://www.youtube.com/watch?v=Yo94Crtwdfc",
+        "thumb": "https://i.ytimg.com/vi/Yo94Crtwdfc/hqdefault.jpg"
       },
       {
-        "title": "O que todo iniciante em Front End deveria aprender | Como manipular arrays e objetos em JavaScript",
-        "url": "https://www.youtube.com/watch?v=yS7AcF-xRUg",
-        "thumb": "https://img.youtube.com/vi/yS7AcF-xRUg/hqdefault.jpg"
+        "title": "LUFTHANSA: Como é o voo RIO-MUNIQUE, na CLASSE EXECUTIVA do A350-900 - Por Carioca NoMundo",
+        "url": "https://www.youtube.com/watch?v=zlUqRJmQUpM",
+        "thumb": "https://i.ytimg.com/vi/zlUqRJmQUpM/hqdefault.jpg"
       },
       {
-        "title": "5 Erros Históricos do CSS",
-        "url": "https://www.youtube.com/watch?v=HNjkqONzGS0",
-        "thumb": "https://img.youtube.com/vi/HNjkqONzGS0/hqdefault.jpg"
+        "title": "EMIRATES A380 BUSINESS CLASS DUBAI-SÃO PAULO - EXPERIÊNCIA COMPLETA - Por Carioca NoMundo",
+        "url": "https://www.youtube.com/watch?v=sFZOhJ_KjWw",
+        "thumb": "https://i.ytimg.com/vi/sFZOhJ_KjWw/hqdefault.jpg"
       },
       {
-        "title": "Deploy de Front End ATUALIZADO! | O que eu uso para hospedagem de Front End",
-        "url": "https://www.youtube.com/watch?v=d9c0r-J6CdM",
-        "thumb": "https://img.youtube.com/vi/d9c0r-J6CdM/hqdefault.jpg"
-      }
-    ],
-    "back-end": [
-      {
-        "title": "Node JS: Construindo CRUDs com file system focando em serialização e JSON",
-        "url": "https://www.youtube.com/watch?v=dvd3pNYh7So",
-        "thumb": "https://img.youtube.com/vi/dvd3pNYh7So/hqdefault.jpg"
-      },
-      {
-        "title": "Node JS: Construindo CRUDs com file system focando em serialização e JSON",
-        "url": "https://www.youtube.com/watch?v=8q36rNS5yVo",
-        "thumb": "https://img.youtube.com/vi/8q36rNS5yVo/hqdefault.jpg"
-      },
-      {
-        "title": "O que é o Java? #HipstersPontoTube",
-        "url": "https://www.youtube.com/watch?v=90NcVNsKGik",
-        "thumb": "https://img.youtube.com/vi/90NcVNsKGik/hqdefault.jpg"
-      },
-      {
-        "title": "O que é Machine Learning? #HipstersPontoTube",
-        "url": "https://www.youtube.com/watch?v=Iuz_jc96bQk",
-        "thumb": "https://img.youtube.com/vi/Iuz_jc96bQk/hqdefault.jpg"
-      },
-      {
-        "title": "A MELHOR linguagem de programação com Fabio Akita | #HipstersPontoTube",
-        "url": "https://www.youtube.com/watch?v=imB0QVoNrGc",
-        "thumb": "https://img.youtube.com/vi/imB0QVoNrGc/hqdefault.jpg"
-      },
-      {
-        "title": "Top 5 libs que todo aplicativo Android deve ter com Alex Felipe | #HipstersPontoTube",
-        "url": "https://www.youtube.com/watch?v=ldRbnpy-qQs",
-        "thumb": "https://img.youtube.com/vi/ldRbnpy-qQs/hqdefault.jpg"
-      },
-      {
-        "title": "O que é o C#? #HipstersPontoTube",
-        "url": "https://www.youtube.com/watch?v=0JWMVc1CqpA",
-        "thumb": "https://img.youtube.com/vi/0JWMVc1CqpA/hqdefault.jpg"
+        "title": "ABU DHABI: Um roteiro com as principais atrações da capital dos Emirados Árabes Unidos",
+        "url": "https://www.youtube.com/watch?v=nJaYNzdhjDk",
+        "thumb": "https://i.ytimg.com/vi/nJaYNzdhjDk/hqdefault.jpg"
       }
     ]
   }

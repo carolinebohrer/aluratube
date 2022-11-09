@@ -90,7 +90,6 @@ function Timeline(props) {
 }
 
 function Favorite(props) {
-    debugger
     const favorites = Object.keys(props.favorites);
 
     return   (
