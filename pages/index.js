@@ -3,6 +3,7 @@ import styled from "styled-components";
 import { CSSReset } from "../src/components/CSSReset";
 import Menu from "../src/components/Menu";
 import { StyledTimeline } from "../src/components/Timeline";
+import { StyledFavorite } from "../src/components/Favorite";
 
 function HomePage() {
 
@@ -20,23 +21,14 @@ function HomePage() {
             <div style={estiloDaHomePage}>
                 <Menu></Menu>
                 <Header></Header>
-                <Timeline playlists={config.playlists}>
-                    Conteúdo
-                </Timeline>
+                <Timeline playlists={config.playlists} />
+                <Favorite favorites={config.favorites} />
             </div>
         </>
     );
 }
 
 export default HomePage
-
-// function Menu() {
-//     return (
-//         <div>
-//             Menu
-//         </div>
-//     )
-// }
 
 const StyleHeader = styled.div`
     img {
@@ -94,5 +86,36 @@ function Timeline(props) {
                 )
             })}
         </StyledTimeline>
+    )
+}
+
+function Favorite(props) {
+    debugger
+    const favorites = Object.keys(props.favorites);
+
+    return   (
+        <StyledFavorite>
+            {favorites.map((favorite) => {
+                const accounts = props.favorites[favorite];
+
+                return (
+                    <section>
+                        <h2>{favorite}</h2>
+                        <div>
+                            {accounts.map((account) => {
+                                return (
+                                    <a href={account.url}>
+                                        <img src={account.avatar} />
+                                        <span>
+                                            {account.name}
+                                        </span>
+                                    </a>
+                                )
+                            })}
+                        </div>
+                    </section>
+                )
+            })}
+        </StyledFavorite>
     )
 }
