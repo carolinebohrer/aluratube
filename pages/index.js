@@ -14,7 +14,7 @@ function HomePage() {
         flex: 1
     };
 
-    const [valorDoFiltro, setValorDoFiltro] = React.useState("Angular");
+    const [valorDoFiltro, setValorDoFiltro] = React.useState("");
 
     return (
         <>
